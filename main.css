@@ -46,6 +46,12 @@ footer {
   font-size: small;
 }
 
+@media only screen and (max-width: 767px) {
+  .left {
+    font-size: 8pt;
+  }
+}
+
 .right {
   text-align: right;
 }
